@@ -1,0 +1,22 @@
+{
+    "name": "ryanwinchester/eloquent-uuids",
+    "description": "Laravel Eloquent Models Uuids",
+    "type": "library",
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "Ryan Winchester",
+            "email": "fungku@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "ramsey/uuid": "^3.5"
+    },
+    "require-dev": {},
+    "autoload": {
+      "psr-4": {
+        "SevenShores\\Uuids\\": "src/"
+      }
+    }
+}
