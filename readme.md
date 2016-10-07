@@ -3,7 +3,7 @@
 To use it just install
 
 ```
-composer require ryanwinchester/eloquent-uuids
+composer require sevenshores/eloquent-uuids
 ```
 
 then in you model you can do:

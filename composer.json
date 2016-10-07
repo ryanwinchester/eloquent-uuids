@@ -1,5 +1,5 @@
 {
-    "name": "ryanwinchester/eloquent-uuids",
+    "name": "sevenshores/eloquent-uuids",
     "description": "Laravel Eloquent Models Uuids",
     "type": "library",
     "license": "Apache-2.0",
